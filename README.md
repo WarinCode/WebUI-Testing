@@ -17,7 +17,7 @@
 
 --- 
 
-### รายงานผลการทดสอบ
+### รายงานผลการทดสอบทั้งหมด
 
 - [รายงาน XYZ Bank](https://github.com/Thirdbot/WebUI-Testing/blob/9c29234d8f8d024efc2a7bd50bb3aa86019280db/Test%20Reports/XYZ%20Bank.pdf)
 - [รายงาน Katalon Shop](https://github.com/Thirdbot/WebUI-Testing/blob/9c29234d8f8d024efc2a7bd50bb3aa86019280db/Test%20Reports/Katalon%20Shop.pdf)
